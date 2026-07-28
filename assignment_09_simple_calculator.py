@@ -67,7 +67,6 @@
 # =============================================================================
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
-Calculator App - Python
 
 def add(a, b):
     return a + b
